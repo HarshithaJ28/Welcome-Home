@@ -28,7 +28,7 @@ A relational database system for the **Welcome Home** project, including schema 
 1. **Clone the repository**  
    ```bash
    git clone https://github.com/HarshithaJ28/Welcome-Home.git
-````
+   ```
 
 2. **Navigate to the project directory**
 
